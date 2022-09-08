@@ -8,7 +8,7 @@ This repository contains an excerpt of generated data from the DeepBench - a ben
 
 **Citation**:
 
-If you use this work, cite DeepBench benchmark
+If you build on or use this work, cite DeepBench benchmark
 ```
 @inproceedings{DBLP:conf/dbtest-ws/Belloni0SR22,
   author    = {Stefano Belloni and
