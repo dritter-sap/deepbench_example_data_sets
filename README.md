@@ -2,7 +2,7 @@
 
 This repository contains an excerpt of generated data from the DeepBench - a benchmark for document stores - as well as queries used in the paper for experiments:
 
-- Analytical Workloads – BI Benchmark (from https://github.com/cwida/public_bi_benchmark, not in this repository)
+- Analytical Workloads – BI Benchmark (we refer to https://github.com/cwida/public_bi_benchmark, not in this repository)
 - Querying Nested JSON Objects: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/nested_json_object)
 - Case Study: Improving Queries on Nested JSON Arrays: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/unnest_json_arrays)
 
