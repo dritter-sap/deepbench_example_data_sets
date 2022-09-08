@@ -1,0 +1,120 @@
+{
+    "forcedPaths": [
+        {
+            "path": [ "customerid" ],
+            "valueType": "random_number(5)"
+        }, 
+        {
+            "path": [
+                "a1[2]",
+                "id"
+            ],
+            "valueType": "random_number(3)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1
+        }, 
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "a4[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1 
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "a4[2]",
+                "a5[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1 
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "a4[2]",
+                "a5[2]",
+                "a6[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1 
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "a4[2]",
+                "a5[2]",
+                "a6[2]",
+                "a7[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1 
+        },
+        {
+            "path": [
+                "a1[2]",
+                "a2[2]",
+                "a3[2]",
+                "a4[2]",
+                "a5[2]",
+                "a6[2]",
+                "a7[2]",
+                "a8[2]",
+                "id"
+            ],
+            "valueType": "random_number(4)",
+            "operator": "eq",
+            "value" : 99,
+            "num" : 1 
+        }
+    ],
+    "lenFields": 25,
+    "numFields": 0,
+    "numLevels": 0,
+    "numSamples": 1000000
+}

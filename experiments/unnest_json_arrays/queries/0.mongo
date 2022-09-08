@@ -1,0 +1,12 @@
+db.mycol.aggregate( [ 
+   {"$unwind": "$a1"}, 
+   {"$unwind": "$a1.a2"}, 
+   {
+      "$project": { 
+         "_id": 0, 
+         "customerid": 1, 
+         "a1.a2.id": 1, 
+      } 
+   } 
+])
+

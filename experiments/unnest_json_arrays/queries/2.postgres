@@ -1,0 +1,7 @@
+SELECT t->>'id' as id
+FROM 
+   "mycol", 
+   jsonb_array_elements(mycol._jdata_->'a1') as t1, 
+   jsonb_array_elements(t1->'a2') as t2,
+   jsonb_array_elements(t2->'a3') as t 
+WHERE CAST(t->>'id' AS BIGINT) = 8634

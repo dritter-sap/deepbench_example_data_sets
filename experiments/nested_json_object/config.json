@@ -1,0 +1,35 @@
+{
+    "run_insert_bench": true,
+    "run_query_bench": true,
+    "user_counts": [
+        1,
+        5,
+        10
+    ],
+    "batch_sizes": [
+        1000,
+        10000
+    ],
+    "index_cfg": {
+        "collection1": [
+            {
+                "type": "int",
+                "path": [
+                    "path",
+                    "to",
+                    "key1"
+                ]
+            }
+        ],
+        "collection2": [
+            {
+                "type": "string",
+                "path": [
+                    "path",
+                    "to",
+                    "key2"
+                ]
+            }
+        ]
+    }
+}
