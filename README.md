@@ -6,7 +6,7 @@ This repository contains an excerpt of generated data from the DeepBench - a ben
 - Querying Nested JSON Objects: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/nested_json_object)
 - Case Study: Improving Queries on Nested JSON Arrays: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/unnest_json_arrays)
 
-**Reference this work**:
+**Citation**:
 
 If you use this work, cite DeepBench benchmark
 ```
