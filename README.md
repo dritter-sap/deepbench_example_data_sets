@@ -1,6 +1,6 @@
 # Benchmarking JSON Document Stores in Practice
 
-This repository contains an excerpt of generated data from the DeepBench - a benchmark for document stores - as well as queries used in the paper for experiments:
+This repository contains an excerpt of generated data from the [DeepBench](https://dl.acm.org/doi/10.1145/3531348.3532176) - a benchmark for document stores - as well as queries used in the paper for experiments:
 
 - Analytical Workloads – BI Benchmark (we refer to https://github.com/cwida/public_bi_benchmark, not in this repository)
 - Querying Nested JSON Objects: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/nested_json_object)
