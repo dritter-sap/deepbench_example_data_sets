@@ -6,6 +6,8 @@ This repository contains an excerpt of the data and queries generated for our re
 - Querying Nested JSON Objects: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/nested_json_object)
 - Case Study: Improving Queries on Nested JSON Arrays: [query, data, config](https://github.com/dritter-sap/deepbench_example_data_sets/tree/main/experiments/unnest_json_arrays)
 
+> Code repository for the data and query generator part can be found in: https://github.com/SAP/json-data-and-query-generator
+
 # Citation
 
 If you build on or use this work, cite DeepBench benchmark
